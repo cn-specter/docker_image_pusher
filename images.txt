@@ -1,3 +1,3 @@
 #支持指定架构
 # --platform=linux/arm64 mcr.microsoft.com/dotnet/aspnet:6.0
-xhofe/alist:v3.36.0-ffmpeg
+xhofe/alist:v3.36.0
