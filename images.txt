@@ -1,3 +1,10 @@
 #支持指定架构
 # --platform=linux/arm64 mcr.microsoft.com/dotnet/aspnet:6.0
-gitea/gitea:1.22.1
+penpotapp/backend:2.1.2
+penpotapp/exporter:2.1.2
+penpotapp/frontend:2.1.2
+traefik:v2.9
+postgres:15
+redis:7
+sj26/mailcatcher:latest
+minio/minio:latest
