@@ -1,3 +1,3 @@
 #支持指定架构
 # --platform=linux/arm64 mcr.microsoft.com/dotnet/aspnet:6.0
-linzeyi/hivision_idphotos:v1.2.6
+penpotapp/frontend:latest
