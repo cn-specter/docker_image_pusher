@@ -3,4 +3,5 @@
 # jeessy/ddns-go
 # gitea/gitea:1.22.3
 # xhofe/alist:latest-ffmpeg
+linzeyi/hivision_idphotos:latest
 
