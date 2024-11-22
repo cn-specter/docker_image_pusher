@@ -5,4 +5,5 @@
 # xhofe/alist:latest-ffmpeg
 # linzeyi/hivision_idphotos:latest
 # nyanmisaka/jellyfin:latest
-ubuntu:24.04
+# ubuntu:24.04
+php:8.3.14-apache-bullseye
