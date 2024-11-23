@@ -7,5 +7,6 @@
 # nyanmisaka/jellyfin:latest
 # ubuntu:24.04
 # php:8.3.14-apache-bullseye
-php:7.3.13-apache-stretch
+# php:7.3.13-apache-stretch
+xhofe/alist:latest-ffmpeg
 
