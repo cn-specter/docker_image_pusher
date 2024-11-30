@@ -10,5 +10,6 @@
 # php:7.3.13-apache-stretch
 # xhofe/alist:latest-ffmpeg
 # oceanbase/oceanbase-ce:4.2.1-lts
-redis:6.2-alpine
+# redis:6.2-alpine
+tensorchord/pgvecto-rs:pg14-v0.2.0
 
