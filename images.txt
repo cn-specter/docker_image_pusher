@@ -14,6 +14,6 @@
 # tensorchord/pgvecto-rs:pg14-v0.2.0
 # ghcr.io/immich-app/immich-server:release
 # ghcr.io/immich-app/immich-machine-learning:release
-easysoft/zentao:21.2
-# mariadb:10.6
+# easysoft/zentao:21.2
+mariadb:latest
 
