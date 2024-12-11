@@ -15,5 +15,6 @@
 # ghcr.io/immich-app/immich-server:release
 # ghcr.io/immich-app/immich-machine-learning:release
 # easysoft/zentao:21.2
-mariadb:latest
+# mariadb:latest
+python:3.10.0-alpine
 
