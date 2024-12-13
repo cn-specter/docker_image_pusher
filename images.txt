@@ -16,5 +16,6 @@
 # ghcr.io/immich-app/immich-machine-learning:release
 # easysoft/zentao:21.2
 # mariadb:latest
-python:3.10.0-alpine
+# python:3.10.0-alpine
+ubuntu:16.04
 
