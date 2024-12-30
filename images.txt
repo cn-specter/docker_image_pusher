@@ -17,5 +17,5 @@
 # easysoft/zentao:21.2
 # mariadb:latest
 # python:3.10.0-alpine
-ubuntu:16.04
-
+# ubuntu:16.04
+python:3.13-slim
