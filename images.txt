@@ -18,4 +18,5 @@
 # mariadb:latest
 # python:3.10.0-alpine
 # ubuntu:16.04
-python:3.13-slim
+# python:3.13-slim
+oceanbase/oceanbase-ce:4.3.5.0-100000202024123117
