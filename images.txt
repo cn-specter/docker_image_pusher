@@ -21,4 +21,5 @@
 # python:3.13-slim
 # oceanbase/oceanbase-ce:4.3.5.0-100000202024123117
 # nginx
-xhofe/alist:v3.44.0-ffmpeg
+# xhofe/alist:v3.44.0-ffmpeg
+cym1102/svnwebui:1.8.2
