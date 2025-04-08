@@ -23,4 +23,5 @@
 # nginx
 # xhofe/alist:v3.44.0-ffmpeg
 # cym1102/svnwebui:1.8.2
-mysql:8.0.23
+# mysql:8.0.23
+nginx:alpine
