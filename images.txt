@@ -25,4 +25,5 @@
 # cym1102/svnwebui:1.8.2
 # mysql:8.0.23
 # nginx:alpine
-redis:latest
+# redis:latest
+mysql:8.0.22
