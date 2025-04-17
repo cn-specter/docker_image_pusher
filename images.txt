@@ -27,4 +27,4 @@
 # nginx:alpine
 # redis:latest
 # mysql:8.0.22
-xhofe/alist:main-aio
+xhofe/alist:v3.44.0-aio
