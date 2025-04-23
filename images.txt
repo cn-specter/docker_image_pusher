@@ -27,4 +27,5 @@
 # nginx:alpine
 # redis:latest
 # mysql:8.0.22
-xhofe/alist:v3.44.0-aio
+# xhofe/alist:v3.44.0-aio
+mariadb:11.7.2
