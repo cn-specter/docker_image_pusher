@@ -33,4 +33,4 @@
 # almalinux/9-base:9.5-20250411
 # alpine:3.21.3
 # soulteary/certs-maker:v3.8.0
-openlistteam/openlist:v4.0.0-aio
+openlistteam/openlist:v4.0.5-aio
