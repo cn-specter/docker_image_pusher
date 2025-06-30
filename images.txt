@@ -20,7 +20,7 @@
 # ubuntu:16.04
 # python:3.13-slim
 # oceanbase/oceanbase-ce:4.3.5.0-100000202024123117
-# nginx
+nginx:1.28.0
 # xhofe/alist:v3.44.0-ffmpeg
 # cym1102/svnwebui:1.8.2
 # mysql:8.0.23
@@ -33,4 +33,4 @@
 # almalinux/9-base:9.5-20250411
 # alpine:3.21.3
 # soulteary/certs-maker:v3.8.0
-openlistteam/openlist:v4.0.5-aio
+# openlistteam/openlist:v4.0.5-aio
