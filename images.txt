@@ -37,4 +37,5 @@
 # caddy:2.10.0
 # rockylinux/rockylinux:10.0
 # centos:centos7
-langhuihui/monibuca:v5
+# langhuihui/monibuca:v5
+ubuntu:18.04
