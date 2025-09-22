@@ -38,4 +38,5 @@
 # rockylinux/rockylinux:10.0
 # centos:centos7
 # langhuihui/monibuca:v5
-ubuntu:18.04
+# ubuntu:18.04
+postgres:16-alpine
