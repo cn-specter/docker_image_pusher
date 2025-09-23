@@ -39,4 +39,5 @@
 # centos:centos7
 # langhuihui/monibuca:v5
 # ubuntu:18.04
-postgres:16-alpine
+# postgres:16-alpine
+openproject/openproject:16
