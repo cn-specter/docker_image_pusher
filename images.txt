@@ -42,4 +42,5 @@
 # ubuntu:18.04
 # postgres:16-alpine
 # openproject/openproject:16
-haierkeys/fast-note-sync-service:1.16.2
+# haierkeys/fast-note-sync-service:1.16.2
+docker.gitea.com/gitea:1.25.5
