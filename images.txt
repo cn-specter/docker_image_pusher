@@ -43,4 +43,5 @@
 # postgres:16-alpine
 # openproject/openproject:16
 # haierkeys/fast-note-sync-service:1.16.2
-gitea/gitea:1.25.5
+# gitea/gitea:1.25.5
+mariadb:12-ubi
